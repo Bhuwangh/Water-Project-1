@@ -1,1 +1,1 @@
-printf("k ho baghh!")
+printf("yo abin le gareko kam ho hai")
