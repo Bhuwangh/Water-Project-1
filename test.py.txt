@@ -1,1 +1,3 @@
-printf("yo abin le gareko kam ho hai")
+printf("test1")
+printf"test2")
+
